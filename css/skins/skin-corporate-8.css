@@ -525,8 +525,8 @@ html .btn-tertiary:active,
 html .btn-tertiary:focus,
 html .btn-tertiary:active:hover,
 html .btn-tertiary:active:focus {
-	border-color: #2d2d2d #2d2d2d #2d2d2d;
-	background-color: #2d2d2d;
+	/*border-color: #2d2d2d #2d2d2d #2d2d2d;*/
+	/*background-color: #2d2d2d;*/
 }
 
 html .btn-tertiary.dropdown-toggle {
@@ -555,8 +555,8 @@ html .btn-tertiary-scale-2 {
 }
 
 html .btn-tertiary-scale-2:hover {
-	border-color: #2d2d2d #2d2d2d #141414;
-	background-color: #2d2d2d;
+	/*border-color: #2d2d2d #2d2d2d #141414;*/
+	/*background-color: #2d2d2d;*/
 }
 
 html .btn-tertiary-scale-2:active,
@@ -915,8 +915,8 @@ html .btn-borders.btn-tertiary:hover:active:hover,
 html .btn-borders.btn-tertiary:focus:active:hover,
 html .btn-borders.btn-tertiary:hover:active:focus,
 html .btn-borders.btn-tertiary:focus:active:focus {
-	border-color: #2d2d2d #2d2d2d #2d2d2d;
-	background-color: #2d2d2d;
+	/*border-color: #2d2d2d #2d2d2d #2d2d2d;*/
+	/*background-color: #2d2d2d;*/
 }
 
 html .btn-borders.btn-tertiary:hover.dropdown-toggle,
